@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>艺术art on WingSay</title>
+    <link>https://wingsay.com/tags/%E8%89%BA%E6%9C%AFart/</link>
+    <description>Recent content in 艺术art on WingSay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>wingsy@live.com (剩翼)</managingEditor>
+    <webMaster>wingsy@live.com (剩翼)</webMaster>
+    <lastBuildDate>Wed, 29 May 2019 22:21:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://wingsay.com/tags/%E8%89%BA%E6%9C%AFart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marc Martin插画里的孤独</title>
+      <link>https://wingsay.com/post/marcmatindechahua/</link>
+      <pubDate>Wed, 29 May 2019 22:21:14 +0800</pubDate>
+      <author>wingsy@live.com (剩翼)</author>
+      <guid>https://wingsay.com/post/marcmatindechahua/</guid>
+      <description>&lt;p&gt;Marc Martin，来自澳大利亚，插画家、艺术家、书籍制作人。他的画作中，一个明显、常见的主题是：孤独——存在性孤独。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

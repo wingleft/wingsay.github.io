@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>念想memory on WingSay</title>
+    <link>https://wingsay.com/tags/%E5%BF%B5%E6%83%B3memory/</link>
+    <description>Recent content in 念想memory on WingSay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>wingsy@live.com (剩翼)</managingEditor>
+    <webMaster>wingsy@live.com (剩翼)</webMaster>
+    <lastBuildDate>Fri, 04 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wingsay.com/tags/%E5%BF%B5%E6%83%B3memory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>三故人</title>
+      <link>https://wingsay.com/post/sanguren/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      <author>wingsy@live.com (剩翼)</author>
+      <guid>https://wingsay.com/post/sanguren/</guid>
+      <description>&lt;p&gt;写在这里的，是我的三位初中同窗，他们又都已离世多年，所以，叫三“故”人。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>英雄无敌俱往矣</title>
+      <link>https://wingsay.com/post/yingxiongwudijuwangyi/</link>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+      <author>wingsy@live.com (剩翼)</author>
+      <guid>https://wingsay.com/post/yingxiongwudijuwangyi/</guid>
+      <description>&lt;p&gt;才回津不足一月，又被借回总署，父亲说：“看来你和北京有缘啊”——却不知是良缘还是孽缘。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
