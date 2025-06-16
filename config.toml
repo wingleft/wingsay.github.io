@@ -1,35 +1,35 @@
-baseurl = "https://example.com/"
-languageCode = "en-us"
+baseurl = "https://wingsay.vercel.app/"
+languageCode = "zh-cn"
 theme = "hugo-theme-stack"
-title = "Example Site"
-copyright = "Example Person"
-DefaultContentLanguage = "en"
-hasCJKLanguage = false
+title = "Wing, Say"
+copyright = "Asher Wing"
+DefaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
 
-[languages.en]
-languageName = "English"
-title = "Example Site"
-weight = 1
+    # [languages.en]
+    # languageName = "English"
+    # title = "Wing, Say"
+    # weight = 2
 
-[languages.en.params.sidebar]
-subtitle = "Example description"
+    # [languages.en.params.sidebar]
+    # subtitle = "Wing, Say description"
 
 [languages.zh-cn]
 languageName = "中文"
-title = "演示站点"
-weight = 2
+title = "翼说"
+weight = 1
 
 [languages.zh-cn.params.sidebar]
-subtitle = "演示说明"
+subtitle = "有此翼说"
 
-[languages.ar]
-languageName = "عربي"
-languagedirection = "rtl"
-title = "موقع تجريبي"
-weight = 3
+    # [languages.ar]
+    # languageName = "عربي"
+    # languagedirection = "rtl"
+    # title = "موقع تجريبي"
+    # weight = 3
 
-[languages.ar.params.sidebar]
-subtitle = "وصف تجريبي"
+    # [languages.ar.params.sidebar]
+    # subtitle = "وصف تجريبي"
 
 [services.disqus]
 shortname = "hugo-theme-stack"
@@ -57,12 +57,12 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  subtitle = "但行好事，莫问前程"
 
     [params.sidebar.avatar]
     enabled = true
     local = true
-    src = "img/avatar.png"
+    src = "img/avatar.jpg"
 
   [params.article]
   math = false
@@ -159,18 +159,18 @@ main = [ ]
   [[menu.social]]
   identifier = "github"
   name = "GitHub"
-  url = "https://github.com/CaiJimmy/hugo-theme-stack"
+  url = "https://github.com/wingleft/wingsay.github.io"
 
     [menu.social.params]
     icon = "brand-github"
 
-  [[menu.social]]
-  identifier = "twitter"
-  name = "Twitter"
-  url = "https://twitter.com"
+      # [[menu.social]]
+      # identifier = "twitter"
+      # name = "Twitter"
+      # url = "https://twitter.com"
 
-    [menu.social.params]
-    icon = "brand-twitter"
+        # [menu.social.params]
+        # icon = "brand-twitter"
 
 [related]
 includeNewer = true
@@ -196,9 +196,9 @@ enable = true
 unsafe = true
 
 [markup.tableOfContents]
-endLevel = 4
+endLevel = 6
 ordered = true
-startLevel = 2
+startLevel = 1
 
 [markup.highlight]
 noClasses = false
