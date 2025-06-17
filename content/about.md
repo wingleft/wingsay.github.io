@@ -1,28 +1,51 @@
-+++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
-+++
+---
+date: 2019-06-15
+draft: false
+slug: about
+title: About
+author: Asher Wing
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+> 我骤地感到，原来世界充满柔情，围绕于我的乃是一片仁慈，我与一切存在之物间系着甜蜜的纽带。我明白了想从你身上寻觅的欢娱不只是在你身上，还萦绕在我周围，存在于街市的喧哗里......在孕育着雨滴的秋云间；我明白了，这世界并非是一连串的残酷的争斗，而是熠熠闪亮的欢乐，使人愉悦的柔浪，未为我们珍惜的礼品。 ------**弗拉基米尔·纳博科夫**
 
-Hugo makes use of a variety of open source projects including:
+------------------------------------------------------------------------
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+> 国家之所以会变成人间地狱，是因为人们想把它变成天堂。 ------**弗利德里希·荷尔德林**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+------------------------------------------------------------------------
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+> 我们的骨肉同胞应当得到协助。我们不可以为了后代子孙，或为了某个永远无法实现的幸福理想，而牺牲任何一个时代的人。简单地说，我所关切的主题是，在一个合理的公共政策里，人类的痛苦才是最迫切的问题，幸福并非最迫切的问题。幸福的获得应该让每个人私下去处理。 ------**卡尔·波普尔**
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+------------------------------------------------------------------------
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+> 哲学的目的是什么？------为困在瓶中的苍蝇指出一条出路。 ------**维特根斯坦**
 
+------------------------------------------------------------------------
 
+> 世界上有各种各样的爱，但没有一种爱能够经历两次。 ------**菲茨杰拉德**
 
+------------------------------------------------------------------------
+
+> 不是因为没有人就会寂寞，而是因为没有谁才会寂寞。 ------**赤名莉香**
+
+------------------------------------------------------------------------
+
+> 只要离别尚未到来，就愿意相信它是远的。 ------**莉卡**
+
+------------------------------------------------------------------------
+
+> 人的一生，要死去三次。第一次，当你的心跳停止，呼吸消逝，你在生物学上被宣告了死亡；第二次，当你下葬，人们穿着黑衣出席你的葬礼，他们宣告，你在这个社会上不复存在，你从人际关系网里消逝，你悄然离去；而第三次死亡，是这个世界上最后一个记得你的人，把你忘记，于是，你就真正地死去。整个宇宙都将不再和你有关。------**「寻梦环游记」**
+
+------------------------------------------------------------------------
+
+> 高调再高，苟能律已，慎勿律人，高亦无害。低调再低，不逾底线，若能持守，低又何妨。------**秦晖**
+
+------------------------------------------------------------------------
+
+> 为了约束行政权力，对强势一方的舆论监督实际上不能不依靠"有错推定"原则，即强势一方在公共舆论面前必须承担"无错举证责任"，如不能证明你无错，那你就被视为有错。换言之，强势者在舆论面前充当"被告"时不能要求弱势批评者承担有错举证责任。------**秦晖**
+
+------------------------------------------------------------------------
+
+> 博爱之谓仁，行而宜之之谓义，由是而之焉之谓道，足乎己无待于外之谓德。仁与义为定名，道与德为虚位。------**韩愈**
+
+------------------------------------------------------------------------
