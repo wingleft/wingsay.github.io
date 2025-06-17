@@ -75,7 +75,7 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "disqus"
+  provider = "gitalk"
 
     [params.comments.disqusjs]
 
