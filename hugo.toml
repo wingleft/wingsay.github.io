@@ -75,7 +75,7 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "cactus"
+  provider = "gitalk"
 
     [params.comments.disqusjs]
 
@@ -109,7 +109,13 @@ rssFullContent = true
     emitMetadata = 0
 
     [params.comments.gitalk]
-
+    
+    clientID = "Ov23liRVBSW3jnCvG3mE"
+	  clientSecret = "b389fcbfd3c9e194bb25f9eb0ccc0c59af4abe56"
+	  repo = "wingsay-gitalk"
+	  owner = "wingleft"
+	  admin = "wingleft"
+	  
     [params.comments.cusdis]
 
 [[params.widgets.homepage]]
