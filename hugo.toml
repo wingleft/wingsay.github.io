@@ -75,7 +75,7 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "utterances"
+  provider = "waline"
 
     [params.comments.disqusjs]
 
