@@ -1,69 +1,47 @@
-# Basic config
 baseURL = "https://wingsay.vercel.app/"
-theme = "hugo-simple"
-defaultContentLanguage = "zh-cn"
-languageCode = "en"                # zh-Hans
+languageCode = "en-us"
 title = "Wing, Say"
-copyright = "© 2024 Shaolong Chen"
-mainSections = ["blog"]
-
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = true
-
-# https://github.com/gohugoio/hugo/issues/12152
-capitalizeListTitles = false
-
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-# ignoreErrors = ["error-disable-taxonomy"]
-[taxonomies]
-tag = "tags"
-
-[permalinks]
-blog = "/:slug/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
-
+theme="archie"
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 [params]
-title = "Wing, Say"
-description = "但行好事，莫问前程"
-favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-hideRSSLink = false
+	mode="auto"
+	useCDN=false
+	subtitle = "Asher Wing's [blog](https://wingsay.vercel.app/)"
 
-[params.author]
-name = "剩翼"
-email = "wing@wingsay.com"
-fediverse = "@chensl@mastodon.social"
+# [[params.social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/athul/archie"
+
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://twitter.com/athulcajay/"
+
+# [[params.social]]
+# name = "GitLab"
+# icon = "gitlab"
+# url = "https://gitlab.com/athul/"
 
 [[menu.main]]
 name = "Home"
-pageRef = "/"
-weight = 10
+url = "/"
+weight = 1
+
 [[menu.main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 20
+name = "All posts"
+url = "/posts"
+weight = 2
 
-[services.rss]
-limit = 42
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
 
-[pagination]
-pagerSize = 16
-
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
