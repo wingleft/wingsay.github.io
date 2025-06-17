@@ -1,8 +1,8 @@
 # Basic config
 baseURL = "https://wingsay.vercel.app/"
 theme = "hugo-simple"
-defaultContentLanguage = "zh-Hans"
-languageCode = "zh-Hans"                # zh-Hans
+defaultContentLanguage = "zh-cn"
+languageCode = "en"                # zh-Hans
 title = "Wing, Say"
 copyright = "© 2024 Shaolong Chen"
 mainSections = ["blog"]
