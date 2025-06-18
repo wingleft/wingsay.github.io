@@ -1,4 +1,4 @@
-baseURL = "https://wingsay.vercel.app/"
+baseURL = "https://blog.wingsay.com/"
 languageCode = "en-us"
 title = "Wing, Say"
 theme="archie"
@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# disqusShortname = "wingsay"
+disqusShortname = "wingsay"
 
 pagination.pagerSize = 3 # articles per page
 
