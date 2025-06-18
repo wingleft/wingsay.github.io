@@ -16,7 +16,7 @@ pagination.pagerSize = 3 # articles per page
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "但行好事，莫问前程"
-	mathjax = true # enable MathJax support
+	mathjax = false # enable MathJax support
 	katex = true # enable KaTeX support
 
 # Social Tags
