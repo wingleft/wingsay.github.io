@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "wingsay"
+# disqusShortname = "wingsay"
 
 pagination.pagerSize = 3 # articles per page
 
