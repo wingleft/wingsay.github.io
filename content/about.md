@@ -1,6 +1,6 @@
 ---
 date: 2019-06-15
-draft: true
+draft: false
 slug: about
 title: About
 author: Asher Wing
